@@ -1,0 +1,66 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 80vh;
+  background: linear-gradient(
+    to right, rgb(8, 8, 8) 50%, 
+    rgb(119, 66, 6) 80%);
+}
+.whole-head {
+  justify-content: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 20px 10px;
+  padding: 0px 30px;
+}
+
+.span-number {
+  margin: 0px 20px;
+  text-align: right;
+  font-size: 17px;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 5px 2px 15px;
+  font-weight: 100;
+  color: rgb(255, 115, 0);
+  transition: 1s;
+}
+.whole main {
+
+  margin: 20px 10px;
+  padding: 7px 20px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(255, 255, 255);
+}
+.the-first {
+  margin: 60px;
+  padding: 30px;
+  line-height: 10px;
+  font-weight: 100;
+  text-decoration: underline;
+}
+h1 {
+  line-height: 25px;
+}
+.mail {
+  line-break: loose;
+  margin: 60px 70px;
+  padding: 20px;
+  line-height: 10px;
+  font-weight: lighter;
+}
+.main a {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(255, 115, 0);
+  text-decoration: none;
+  line-height: 1px;
+  font-size: 18px;
+}
+.the-paragraph {
+
+  margin: 50px;
+  padding: 30px;
+  line-height: px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+}
